@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Character Forest GuardAnimator
+  m_Controller: {fileID: 9100000, guid: b4aa66ff46bdfa84f8ca6de91031bdb5, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 2809019331601863615, guid: 80894a77f56ae8b4e9d85522b0ce1b3d, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 5c4129ace1472844eb173919198a723b, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: aea001081cec3ed40a9d35fabd056c66, type: 2}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: c64c3cf5127cf464abe6057c015693f3, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: da0289abaa718064fa7fdd9e465a38ed, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: b4fd0bce92fe6914c87d3d314f0d279c, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 7a96c87d25ef88e4fb86c8cf59e070aa, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: aaa79c1f9f1ce56439e8a9b72cc8f4d5, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 20228d3ccfedbb44081151a9b249a2a3, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: d13b7b043ef1aa244991470d8c18d344, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f72c908ba9fd3a04c9c36fca2b61b9ef, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d13b7b043ef1aa244991470d8c18d344, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 26d71630cd21fbf4c90a2878defdc438, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: e7277c170b67c9f45a09ca35fcb0b5eb, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 228cbabfcd2329242be2ac548a5eb165, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: df9ab2394ed1490409e858f194620679, type: 3}

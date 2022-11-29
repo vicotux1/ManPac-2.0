@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ToonFemaleOverride Controller
+  m_Controller: {fileID: 9100000, guid: db16108433e52e84f9a06746a32cd8d3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 541d2bd77e0ced04ab490837242666ff, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 0e79d8fcfafcb674490042460f5096ba, type: 2}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 3331cf09b5cfd564ea8ce7a3347554d4, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 23bf31ce09705564185110be979598bf, type: 2}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 2b9179c97e7e8454597fb3fa2607a68d, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: bbe152579a4ec774d991b570641e4ae2, type: 2}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: d747c2d344c64cd47a8eb70cd4beeabf, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: e833cfae15b859346814518155017be2, type: 2}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 0f1389c489e363c4599e6bf7cdf8b8f3, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 9385f4186dcf31a43b5e6c29b31d6e03, type: 2}
